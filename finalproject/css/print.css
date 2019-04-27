@@ -1,0 +1,50 @@
+*{ 
+    width:100%; 
+    font-size:12pt; 
+    font-family:sans-serif; 
+    background:white; 
+    color:black; 
+    text-align:left; 
+    margin:0px; 
+    padding:0px; 
+    display: block; 
+    top:0%;
+    height: auto; 
+    opacity:1; 
+    border:none; 
+    text-shadow:none; 
+    font-weight:normal; } 
+    
+    aside, img{ 
+        display:none; 
+    } 
+    
+    nav ul li{ 
+        border:none; 
+        margin:0px; 
+        text-decoration:underline; 
+    } 
+    header{ 
+        box-shadow:none; 
+    } 
+    aside, summary, h1, h2, h3,h4,h5,p{ 
+        color:black; 
+        font-size:12pt; 
+        text-shadow:none; 
+        margin-top:0px; 
+    } 
+    a, a:link, a:visited, a:hover, a:active{ 
+        color:black; 
+        text-shadow:none; 
+        display: inline; 
+        text-decoration:underline; 
+    } 
+    details{ 
+        margin-top:0px; 
+        page-break-inside:avoid; }
+    script{
+        display: none;
+    }
+    i{
+        display:none;
+    }
